@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "i7rVDk1d0ru9WbaqFnGxywJAjSxAGi5qIxrVKWuQbvk=",
+  "Source": "jenkinpipeline",
+  "BasePath": "_content/jenkinpipeline",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
