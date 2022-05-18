@@ -6,6 +6,6 @@ pipeline{
                  git 'https://github.com/TienMinh1998/jenkinpipeline.git'
             }
         }
-        }
+        
     }
 }
