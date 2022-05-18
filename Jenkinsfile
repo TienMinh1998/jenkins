@@ -1,12 +1,12 @@
    pipeline{
     agent any
     stages{
-        stage("Clone github"){
+        stage("Git pull"){
             steps{
                  git 'https://github.com/TienMinh1998/jenkins.git'
             }
         }
-         stage("build Server"){
+         stage("Build"){
             steps{
                  echo 'Start build'
                  bat 'dotnet --version'
@@ -20,7 +20,7 @@
                  echo 'Nguyen Viet Minh Tien 1'
             }
         }
-         stage("devploy"){
+         stage("Triển Khai"){
             steps{
                  bat 'docker ps'
                  bat 'docker images'
