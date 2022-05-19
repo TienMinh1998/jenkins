@@ -25,3 +25,30 @@ C:\Users\lamth\OneDrive\Máy tính\demojenkin\jenkinpipeline\obj\Debug\net6.0\re
 C:\Users\lamth\OneDrive\Máy tính\demojenkin\jenkinpipeline\obj\Debug\net6.0\jenkinpipeline.pdb
 C:\Users\lamth\OneDrive\Máy tính\demojenkin\jenkinpipeline\obj\Debug\net6.0\jenkinpipeline.genruntimeconfig.cache
 C:\Users\lamth\OneDrive\Máy tính\demojenkin\jenkinpipeline\obj\Debug\net6.0\ref\jenkinpipeline.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\appsettings.json
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\jenkinpipeline.exe
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\jenkinpipeline.deps.json
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\jenkinpipeline.runtimeconfig.json
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\jenkinpipeline.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\jenkinpipeline.pdb
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.csproj.AssemblyReference.cache
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.AssemblyInfoInputs.cache
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.AssemblyInfo.cs
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.csproj.CoreCompileInputs.cache
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\scopedcss\bundle\jenkinpipeline.styles.css
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.csproj.CopyComplete
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\refint\jenkinpipeline.dll
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.pdb
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\jenkinpipeline.genruntimeconfig.cache
+C:\Users\nvmtien\Desktop\JenkinsPipeline\jenkins\obj\Debug\net6.0\ref\jenkinpipeline.dll
