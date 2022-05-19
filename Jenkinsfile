@@ -3,7 +3,7 @@
     stages{
         stage("Git pull"){
             steps{
-                 git 'https://github.com/TienMinh1998/jenkins.git'
+                 git branch: 'main',url: 'https://github.com/TienMinh1998/jenkins.git'
             }
         }
          stage("Build"){
