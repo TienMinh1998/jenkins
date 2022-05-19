@@ -22,7 +22,7 @@
             steps{
                   sh '''docker run -it -d -p 8181:80 --name demo -e ASPNETCORE_ENVIRONMENT=Development jenkinsdemo'''
             }
-        }
+        },
          stage("implementation"){
             steps{
                  sh '''docker ps'''
